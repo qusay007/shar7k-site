@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://qusay007.github.io/shar7k-site/index.html</loc>
-  </url>
-  <url>
-    <loc>https://qusay007.github.io/shar7k-site/lessons.html</loc>
-  </url>
-  <url>
-    <loc>https://qusay007.github.io/shar7k-site/about.html</loc>
-  </url>
-  <url>
-    <loc>https://qusay007.github.io/shar7k-site/contact.html</loc>
-  </url>
-  <url>
-    <loc>https://qusay007.github.io/shar7k-site/lesson-9.html</loc>
-  </url>
+  <url><loc>https://qusay007.github.io/shar7k-site/</loc></url>
+  <url><loc>https://qusay007.github.io/shar7k-site/lessons.html</loc></url>
+  <url><loc>https://qusay007.github.io/shar7k-site/about.html</loc></url>
+  <url><loc>https://qusay007.github.io/shar7k-site/contact.html</loc></url>
+  <url><loc>https://qusay007.github.io/shar7k-site/lesson-9.html</loc></url>
 </urlset>

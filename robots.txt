@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qusay007.github.io/shar7k-site/sitemap.xml
